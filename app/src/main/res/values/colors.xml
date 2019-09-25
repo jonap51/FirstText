@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F00202</color>
+    <color name="colorPrimaryDark">#283593</color>
+    <color name="colorAccent">#7400E8</color><!-- D81B60-->
+
+
+    <!--TODO: COLORES DE GRADIENTES DEL FONDO DE TARJETAS Y BOTONES-->
+    <!--BACKGROUND FONDO-->
+    <color name="colorStart">#3A23C4</color>
+    <color name="colorEnd">#99853EE0</color>
+
+    <!--BACKGROUND BOTONES-->
+    <color name="rojo">#FD7777</color>
+    <color name="colorStartButton">#D4E419</color>
+    <color name="colorEndButton">#14FF00</color>
+
+    <color name="colorIcons">#7400E8</color>
+    <color name="blancoAla">#FFFFFF</color>
+    <color name="blancoAlaTrasp">#99FFFFFF</color>
+
+    <color name="separadorRegistro">#33C4C4C4</color>
+
+<!--ITEM BOTTOM NAV CHECKED-->
+    <color name="itemCheck">#000000</color>
+    <color name="itemNoChecked">#66000000</color>
+    <color name="transparente">#00000000</color>
+</resources>

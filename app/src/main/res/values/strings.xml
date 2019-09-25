@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Movble</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--TODO: Servicios -->
+    <string name="aire_acondicionado">Aire Acondicionado</string>
+    <string name="cerrajero">Cerrajero</string>
+    <string name="carpintero">Carpintero</string>
+    <string name="plomero_fontanero">Plomero / Fontanero</string>
+    <string name="jardinero">Jardinero</string>
+    <string name="electricista">Electricista</string>
+    <string name="albanil">Albañil</string>
+    <string name="service_heladera">Service Heladera / Lavarropas</string>
+    <string name="pintor">Pintor</string>
+    <string name="herrero_forjado">Herrero / Forjado</string>
+
+    <!--TODO: Bottom bar-->
+    <string name="home">Home</string>
+    <string name="status">Status</string>
+    <string name="perfil">Perfil</string>
+
+    <!--TODO: Registro-->
+    <string name="servicio_que_brindara">Ingrese el servicio que brindara. Si no va a brindar ningun servicio omita la siguiente selección</string>
+    <string name="seleccione_horario">Seleccione el horario de preferencia disponible</string>
+    <string name="ingrese_su_apellido">Ingrese su apellido</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="obligatorio">*Obligatorio</string>
+    <string name="ingrese_su_telefono">Ingrese su Teléfono</string>
+    <string name="seleccione_su_localidad">Seleccione su Localidad</string>
+    <string name="seleccione_su_municipio">Seleccione su Municipio</string>
+    <string name="seleccione_su_provincia">Seleccione su Provincia</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="continuar">Continuar</string>
+    <string name="agregar">Agregar</string>
+
+    <!-- Dialog Registro-->
+    <string name="elija_semana_disponible">Elija los días de la semana disponible</string>
+    <string name="domingo">D</string>
+    <string name="lunes">L</string>
+    <string name="miercoles">M</string>
+    <string name="martes">M</string>
+    <string name="jueves">J</string>
+    <string name="viernes">V</string>
+    <string name="sabado">S</string>
+    <string name="elija_su_rango_horario">Elija su rango horario</string>
+    <string name="hasta">Hasta</string>
+    <string name="desde">Desde</string>
+
+    <!--TODO: Datos Perfil-->
+    <string name="localidad">Localidad :</string>
+    <string name="telefono">Telefono :</string>
+    <string name="estrellas">Estrellas :</string>
+    <string name="nombre">Nombre :</string>
+    <string name="servicio">Servicio :</string>
+    <string name="fecha">Fecha</string>
+    <string name="ok">OK</string>
+    <string name="contratar">Contratar</string>
+    <string name="comentarios">Comentarios :</string>
+
+
+    <!-- TODO: Preguntas para Cliente / Trabajador-->
+    <string name="pregunta_principal">¿Se realizó el trabajo?</string>
+    <string name="pregunta_trabajdor_dos">¿Cómo calificaría el trabajo terminado?</string>
+    <string name="pregunta_trabajador_tres">¿Cómo calificaría el cumplimiento de las tareas realizadas?</string>
+    <string name="pregunta_trabajador_cuatro">¿Cómo calificaría el cumplimiento de lo acordado con el trabajador?</string>
+    <string name="malo">Malo</string>
+    <string name="regular">Regular</string>
+    <string name="bueno">Bueno</string>
+    <string name="calificar">Calificar</string>
+    <string name="escribir_sugerencia">Escribe algún comentario para que otros usuarios tengan más referencias sobre este trabajador</string>
+    <string name="escriba_aqu">Escriba aquí</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="pregunta_cliente_dos">¿El cliente cumplió con el pago acordado?</string>
+    <string name="pregunta_cliente_tres">¿El cliente lo sito a algún sitio y no se encontraba? Por ende usted perdió tiempo.</string>
+    <string name="pregunta_cliente_cuatro">¿Cómo calificaría el cumplimiento general del cliente?</string>
+    <string name="en_espera">En Espera</string>
+    <string name="aceptados">Aceptados</string>
+    <string name="compartir_con_amigos">Comparte esta app con Amigos</string>
+    <string name="salir">Salir</string>
+    <string name="localidades">localidades</string>
+    <string name="departamentos">departamentos</string>
+    <string name="provincias">provincias</string>
+
+</resources>

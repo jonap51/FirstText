@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/blancoAla</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowEnterTransition">@transition/trans</item>
+        <item name="android:windowExitTransition">@transition/trans</item>
+
+        <item name="android:windowReenterTransition">@transition/trans</item>
+        <item name="android:windowReturnTransition">@transition/trans</item>
+
+    </style>
+
+
+    <style name="chipTheme" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/colorIcons</item>
+        <item name="android:textColor">@color/blancoAla</item>
+    </style>
+
+
+    <style name="Seperator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#000</item>
+    </style>
+
+    <style name= "divider">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">15dp</item>
+        <item name="android:background">@color/separadorRegistro</item>
+    </style>
+
+
+</resources>
